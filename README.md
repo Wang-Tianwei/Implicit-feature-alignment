@@ -31,6 +31,9 @@ These re-cropped images are used as training set.
 
 ## Training
 
+Trained parameter:
+https://drive.google.com/drive/folders/1rXJ9at9erPN6v5nPAOGWsMWFUiwBq8D6?usp=sharing
+
 Crop the training images (`data/crop_images.py`) and modify the path in configuration files (`cfgs.py`). Then
 
 ```bash
